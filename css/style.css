@@ -23,7 +23,7 @@ body {
     align-items: left;
 }
 footer {
-    background: #68ad16;
+    background: #00f7ff;
     margin: 0px;
     padding: 0px 6px;
     align-self: bottom;
@@ -41,7 +41,7 @@ footer {
 .content-wrapper {
     margin: 0px 2.4%;
     padding: 5px;
-    color: #ddd;
+    color: #0c0c0caa;
     margin-bottom: 32px;
 }
 

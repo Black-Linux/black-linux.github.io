@@ -1,3 +1,11 @@
-main{
-    
+.header {
+    background: #68ad16;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+    border-radius: inherit;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
